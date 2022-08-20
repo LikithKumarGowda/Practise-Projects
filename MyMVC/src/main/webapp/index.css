@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+p{
+	border:solid 10px red;
+}
+h1{
+	border:solid 2px blue;
+}
